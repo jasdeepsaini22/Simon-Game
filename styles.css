@@ -6,7 +6,7 @@ body {
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
-  margin:  5%;
+  margin: 5%;
   color: #FEF2BF;
 }
 
@@ -14,7 +14,6 @@ body {
   display: block;
   width: 50%;
   margin: auto;
-
 }
 
 .btn {
@@ -50,4 +49,15 @@ body {
 .pressed {
   box-shadow: 0 0 20px white;
   background-color: grey;
+}
+
+a:link {
+  text-decoration: none;
+  font-family: 'Architects Daughter', cursive;
+  margin-top: 3%;
+}
+
+.tutorial {
+  margin-top: 2%;
+  font-size: 1.4rem;
 }
